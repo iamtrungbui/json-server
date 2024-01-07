@@ -254,51 +254,6 @@
       "email": "info@haraloyalty.com",
       "total_spend_avg": 6890000,
       "phone": "+84 0938747123"
-    },
-    {
-      "id": 18,
-      "debt": 34000000000,
-      "total_spend": 2000580000,
-      "name": "Nguyễn Trần Văn Khách",
-      "address": "Hồ Chí Minh, Vietnam",
-      "total_order": 1000,
-      "level_name": "Member",
-      "level_id": 9,
-      "status": 1,
-      "last_order_number": "DH11778499",
-      "email": "info@haraloyalty.com",
-      "total_spend_avg": 6890000,
-      "phone": "+84 0938747123"
-    },
-    {
-      "id": 19,
-      "debt": 800000000,
-      "total_spend": 2000580000,
-      "name": "Nguyễn Trần Văn Khách",
-      "address": "Hồ Chí Minh, Vietnam",
-      "total_order": 1000,
-      "level_name": "Member",
-      "level_id": 9,
-      "status": 1,
-      "last_order_number": "DH11778499",
-      "email": "info@haraloyalty.com",
-      "total_spend_avg": 6890000,
-      "phone": "+84 0938747123"
-    },
-    {
-      "id": 20,
-      "debt": 800000000,
-      "total_spend": 2000580000,
-      "name": "Nguyễn Trần Văn Khách",
-      "address": "Hồ Chí Minh, Vietnam",
-      "total_order": 1000,
-      "level_name": "Member",
-      "level_id": 9,
-      "status": 1,
-      "last_order_number": "DH11778499",
-      "email": "info@haraloyalty.com",
-      "total_spend_avg": 6890000,
-      "phone": "+84 0938747123"
     }
   ],
   "tabs": [

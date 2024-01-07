@@ -265,7 +265,7 @@
     },
     {
       "id": 2065842,
-      "tabName": "Loyalty customers",
+      "tabName": "Khách hàng thân thiết",
       "isSystemTab": false,
       "fields": [
         {
@@ -283,7 +283,7 @@
     },
     {
       "id": 2065843,
-      "tabName": "Potential customers",
+      "tabName": "Khách hàng nợ",
       "isSystemTab": false,
       "fields": [
         {

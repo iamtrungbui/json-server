@@ -259,15 +259,45 @@
   "tabs": [
     {
       "id": 2065819,
-      "tabName": "Tất cả khách hàng"
+      "tabName": "Tất cả khách hàng",
+      "isSystemTab": true,
+      "fields": []
     },
     {
       "id": 2065842,
-      "tabName": "Loyalty customers"
+      "tabName": "Loyalty customers",
+      "isSystemTab": false,
+      "fields": [
+        {
+          "id": 1923013,
+          "tabId": 2065842,
+          "fieldId": 5,
+          "nummericOperator": ">",
+          "nummericValue": "1",
+          "optionId": null,
+          "optionValue": null,
+          "optionValueValue": null,
+          "displayData": null
+        }
+      ]
     },
     {
       "id": 2065843,
-      "tabName": "Potential customers"
+      "tabName": "Potential customers",
+      "isSystemTab": false,
+      "fields": [
+        {
+          "id": 1923014,
+          "tabId": 2065843,
+          "fieldId": 13,
+          "nummericOperator": null,
+          "nummericValue": null,
+          "optionId": 12,
+          "optionValue": "LastMonth",
+          "optionValueValue": null,
+          "displayData": null
+        }
+      ]
     }
   ]
 }

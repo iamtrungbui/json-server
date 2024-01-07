@@ -254,7 +254,22 @@
       "email": "info@haraloyalty.com",
       "total_spend_avg": 6890000,
       "phone": "+84 0938747123"
-    }
+    },
+    {
+      "id": 18,
+      "debt": 102000000000,
+      "total_spend": 2000580000,
+      "name": "Bùi Huỳnh Minh Khoa",
+      "address": "Hồ Chí Minh, Vietnam",
+      "total_order": 1000,
+      "level_name": "Gold",
+      "level_id": 11,
+      "status": 0,
+      "last_order_number": "DH11778499",
+      "email": "info@haraloyalty.com",
+      "total_spend_avg": 6890000,
+      "phone": "+84 0938747123"
+    },
   ],
   "tabs": [
     {

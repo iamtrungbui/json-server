@@ -375,5 +375,58 @@
     "total_spend_avg": 6890000,
     "phone": "+84 0938747123"
   }
-]
+],
+"tabs": [
+            {
+                "id": 2065819,
+                "viewId": 3,
+                "tabName": "Tất cả khách hàng",
+                "freeText": null,
+                "isSystemTab": true,
+                "sysType": 0,
+                "fields": []
+            },
+            {
+                "id": 2065842,
+                "viewId": 3,
+                "tabName": "Loyalty customers",
+                "freeText": null,
+                "isSystemTab": false,
+                "sysType": 0,
+                "fields": [
+                    {
+                        "id": 1923013,
+                        "tabId": 2065842,
+                        "fieldId": 5,
+                        "nummericOperator": ">",
+                        "nummericValue": "1",
+                        "optionId": null,
+                        "optionValue": null,
+                        "optionValueValue": null,
+                        "displayData": null
+                    }
+                ]
+            },
+            {
+                "id": 2065843,
+                "viewId": 3,
+                "tabName": "Potential customers",
+                "freeText": null,
+                "isSystemTab": false,
+                "sysType": 0,
+                "fields": [
+                    {
+                        "id": 1923014,
+                        "tabId": 2065843,
+                        "fieldId": 13,
+                        "nummericOperator": null,
+                        "nummericValue": null,
+                        "optionId": 12,
+                        "optionValue": "LastMonth",
+                        "optionValueValue": null,
+                        "displayData": null
+                    }
+                ]
+            }
+        ]
 }

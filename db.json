@@ -379,23 +379,17 @@
 "tabs": [
             {
                 "id": 2065819,
-                "viewId": 3,
                 "tabName": "Tất cả khách hàng",
-                "freeText": null,
                 "isSystemTab": true,
             },
             {
                 "id": 2065842,
-                "viewId": 3,
                 "tabName": "Loyalty customers",
-                "freeText": null,
                 "isSystemTab": false
             },
             {
                 "id": 2065843,
-                "viewId": 3,
                 "tabName": "Potential customers",
-                "freeText": null,
                 "isSystemTab": false
             }
         ]
